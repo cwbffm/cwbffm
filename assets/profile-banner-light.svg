@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1240" height="320" viewBox="0 0 1240 320" role="img" aria-labelledby="title desc">
 <title id="title">Fabio Ferreira — Cloud Infrastructure</title>
-<desc id="desc">OCI, Azure, GCP, Cloud Networking, RackWare, Python, Linux e Terraform.</desc>
+<desc id="desc">OCI, Azure, GCP, Cloud Networking, Python, Linux e Terraform.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6f8fa"/><stop offset="1" stop-color="#e9f1fb"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b8cde3" stroke-width=".5" opacity=".35"/></pattern></defs>
 <rect x="1" y="1" width="1238" height="318" rx="20" fill="url(#bg)" stroke="#b8cde3"/>
 <rect x="820" y="2" width="418" height="316" rx="20" fill="url(#grid)"/>
@@ -10,12 +10,11 @@
 <text x="54" y="157" fill="#4f6175" font-family="Segoe UI,Arial,sans-serif" font-size="20">OCI · Azure · GCP · Cloud Networking</text>
 <path d="M54 187h650" stroke="#b8cde3"/>
 <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
-<rect x="52" y="213" width="132" height="38" rx="9" fill="#ffffff" stroke="#7255c5"/><circle cx="70" cy="232" r="4" fill="#7255c5"/><text x="84" y="237" fill="#1f2328">RackWare</text>
-<rect x="196" y="213" width="112" height="38" rx="9" fill="#ffffff" stroke="#0969da"/><circle cx="214" cy="232" r="4" fill="#0969da"/><text x="228" y="237" fill="#1f2328">Python</text>
-<rect x="320" y="213" width="104" height="38" rx="9" fill="#ffffff" stroke="#087e8b"/><circle cx="338" cy="232" r="4" fill="#087e8b"/><text x="352" y="237" fill="#1f2328">Linux</text>
-<rect x="436" y="213" width="132" height="38" rx="9" fill="#ffffff" stroke="#7255c5"/><circle cx="454" cy="232" r="4" fill="#7255c5"/><text x="468" y="237" fill="#1f2328">Terraform</text>
+<rect x="52" y="213" width="112" height="38" rx="9" fill="#ffffff" stroke="#0969da"/><circle cx="70" cy="232" r="4" fill="#0969da"/><text x="84" y="237" fill="#1f2328">Python</text>
+<rect x="176" y="213" width="104" height="38" rx="9" fill="#ffffff" stroke="#087e8b"/><circle cx="194" cy="232" r="4" fill="#087e8b"/><text x="208" y="237" fill="#1f2328">Linux</text>
+<rect x="292" y="213" width="132" height="38" rx="9" fill="#ffffff" stroke="#7255c5"/><circle cx="310" cy="232" r="4" fill="#7255c5"/><text x="324" y="237" fill="#1f2328">Terraform</text>
 </g>
-<text x="54" y="282" fill="#4f6175" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1">REDES · MIGRAÇÃO · AUTOMAÇÃO</text>
+<text x="54" y="282" fill="#4f6175" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1">REDES · INFRAESTRUTURA · AUTOMAÇÃO</text>
 <g fill="none" stroke="#b8cde3" stroke-width="2"><path d="M923 165v43h91m54-43v43h-54v35"/><path d="M878 208h45m145 0h47"/></g>
 <path d="M929 157h130c24 0 37-14 37-32 0-17-12-30-30-33-4-28-24-45-50-45-23 0-42 12-49 33-24-6-48 9-48 33-20 1-32 9-32 23 0 13 14 21 42 21z" fill="#ffffff" stroke="#0969da" stroke-width="2.5"/>
 <g stroke="#087e8b" stroke-width="2" fill="#ffffff"><rect x="854" y="193" width="48" height="30" rx="6"/><rect x="990" y="243" width="48" height="30" rx="6"/><rect x="1115" y="193" width="48" height="30" rx="6"/></g>
