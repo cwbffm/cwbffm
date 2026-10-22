@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/d10f919e79ddf3884fac4fff64e722882027587c/assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/d10f919e79ddf3884fac4fff64e722882027587c/assets/profile-banner-light.svg">
-  <img alt="Fabio Ferreira — Cloud Infrastructure. OCI, Hybrid Cloud, Cloud Networking, segurança, Python, Linux e Terraform." src="https://raw.githubusercontent.com/cwbffm/cwbffm/d10f919e79ddf3884fac4fff64e722882027587c/assets/profile-banner-light.svg" width="1240">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/959f750ab886e53bb57472d714596316567642da/assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/959f750ab886e53bb57472d714596316567642da/assets/profile-banner-light.svg">
+  <img alt="Fabio Ferreira — Cloud Infrastructure. Tema Dracula. OCI, Hybrid Cloud, Networking, Python, CLI, Linux e Terraform." src="https://raw.githubusercontent.com/cwbffm/cwbffm/959f750ab886e53bb57472d714596316567642da/assets/profile-banner-light.svg" width="1240">
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/cwbffm/) · [Projeto OCI/Terraform](https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network) · [Scripts e automações](https://github.com/cwbffm/scriptz)
