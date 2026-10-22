@@ -1,30 +1,44 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-banner-light.svg">
-  <img alt="Fabio Ferreira — Cloud Infrastructure. OCI, Azure, GCP, Cloud Networking, Python, Linux e Terraform." src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-banner-light.svg" width="1240">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/d10f919e79ddf3884fac4fff64e722882027587c/assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/d10f919e79ddf3884fac4fff64e722882027587c/assets/profile-banner-light.svg">
+  <img alt="Fabio Ferreira — Cloud Infrastructure. OCI, Hybrid Cloud, Cloud Networking, segurança, Python, Linux e Terraform." src="https://raw.githubusercontent.com/cwbffm/cwbffm/d10f919e79ddf3884fac4fff64e722882027587c/assets/profile-banner-light.svg" width="1240">
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/cwbffm/) · [Projeto OCI/Terraform](https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network) · [Scripts e automações](https://github.com/cwbffm/scriptz)
 
 ## 👨‍💻 Sobre mim
 
-Sou Analista de Infraestrutura Cloud, com mais de 13 anos de experiência em Tecnologia da Informação. Minha principal atuação é em **Oracle Cloud Infrastructure (OCI)**, com foco em redes, conectividade híbrida, segurança e automação de infraestrutura.
+Sou **Analista de Infraestrutura Cloud**, com mais de **13 anos de experiência em TI** e atuação principal em **Oracle Cloud Infrastructure (OCI)**. Trabalho com administração e sustentação de ambientes híbridos, integrando cloud e infraestrutura on-premises com foco em conectividade, segurança e disponibilidade.
 
-Desenvolvo automações e inventários com **Python, CLI e scripts** para simplificar rotinas operacionais e apoiar a análise de recursos, capacidade e consumo cloud. Também possuo experiência com **Microsoft Azure, Google Cloud Platform, Linux, virtualização, firewalls, backup e Disaster Recovery**.
+Minha experiência reúne **redes OCI, conectividade híbrida, Compute e armazenamento**, além da administração de ambientes Linux e infraestrutura virtualizada. Atuo no diagnóstico de problemas de ponta a ponta, considerando origem, roteamento, firewall, serviços e destino.
 
-Aqui compartilho scripts, adaptações, colaborações e documentação para tornar tarefas de infraestrutura mais simples, padronizadas e fáceis de manter.
+Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos, consolidar dados de OCPU, memória e armazenamento e apoiar análises de capacidade, consumo e otimização de infraestrutura. Também elaboro documentação de arquitetura, topologias, rotas e conectividade.
+
+Neste GitHub compartilho scripts, exemplos de infraestrutura como código, guias e colaborações para simplificar a operação e a manutenção de ambientes cloud.
 
 ## 🛠️ Áreas de atuação e tecnologias
 
-| Área | Experiência e ferramentas |
+| Área | Atuação técnica |
 | --- | --- |
-| Cloud Infrastructure | Oracle Cloud Infrastructure (OCI), Microsoft Azure e Google Cloud Platform (GCP) |
-| Cloud Networking e Hybrid Cloud | VCNs, subnets, route tables, DRG, Hub & Spoke, FastConnect, Remote Peering e troubleshooting de conectividade |
-| Automação e capacidade | Python, CLI, Bash, PowerShell e Perl; inventários de recursos e análise de capacidade e consumo |
-| Sistemas e identidade | Linux, Windows Server, Active Directory e gestão de identidades e acessos |
-| Segurança e continuidade | FortiGate/Fortinet, pfSense, Veeam, Bacula, backup e Disaster Recovery |
-| Containers e monitoramento | Docker, Kubernetes, Zabbix, Grafana e InfluxDB |
-| Infraestrutura como código | Terraform, com exemplo de rede privada na OCI disponível neste perfil |
+| Oracle Cloud Infrastructure | Administração e sustentação de Compute, Boot Volume, Block Volume, Object Storage e File Storage |
+| Cloud Networking | VCNs, subnets, route tables, DRG, arquitetura Hub & Spoke e troubleshooting de conectividade |
+| Hybrid Cloud | Integração com datacenters por FastConnect e conectividade entre regiões com Remote Peering |
+| Segurança de infraestrutura | Firewalls, controle de acesso, roteamento, segmentação e inspeção de tráfego |
+| Automação e inventário | Python, CLI e scripts para levantamento e consolidação de recursos cloud |
+| Capacidade e consumo | Análise de OCPU, memória e armazenamento; informações técnicas e gerenciais para apoiar a otimização dos ambientes |
+| Operação e documentação | Linux, virtualização, diagnóstico de incidentes, documentação de arquitetura e topologias |
+| Infraestrutura como código | Terraform, com exemplo de rede privada na OCI publicado neste perfil |
+
+<details>
+<summary>Experiência complementar em cloud e infraestrutura</summary>
+
+- **Multicloud:** Microsoft Azure e Google Cloud Platform.
+- **Sistemas e identidade:** Windows Server, Active Directory e gestão de identidades e acessos.
+- **Automação:** Bash, PowerShell e Perl.
+- **Segurança e continuidade:** FortiGate/Fortinet, pfSense, Veeam, Bacula, backup e Disaster Recovery.
+- **Containers e monitoramento:** Docker, Kubernetes, Zabbix, Grafana e InfluxDB.
+
+</details>
 
 ## 🚀 Projetos e materiais
 
