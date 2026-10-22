@@ -1,25 +1,31 @@
 # Fabio Ferreira
 
-### Infraestrutura Cloud | Oracle Cloud (OCI) · Azure · AWS
+### Cloud Infrastructure | OCI · Azure · GCP | Cloud Networking · Automação
 
 [LinkedIn](https://www.linkedin.com/in/cwbffm/) · [Projeto OCI/Terraform](https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network) · [Scripts e automações](https://github.com/cwbffm/scriptz)
 
 ## Sobre mim
 
-Atuo com infraestrutura de TI em ambientes híbridos e multicloud, com foco em Oracle Cloud Infrastructure (OCI), administração de sistemas e automação de rotinas operacionais.
+Sou Analista de Infraestrutura Cloud, com mais de 13 anos de experiência em Tecnologia da Informação. Minha principal atuação é em **Oracle Cloud Infrastructure (OCI)**, com foco em redes, conectividade híbrida, segurança e automação de infraestrutura.
 
-Aqui compartilho scripts, adaptações, colaborações e documentação para Linux, Windows, cloud, redes, monitoramento e backups. O objetivo é tornar tarefas recorrentes mais simples, padronizadas e fáceis de manter.
+Na **Unimed Curitiba**, atuo na administração e sustentação de ambientes OCI e na integração entre cloud e infraestrutura on-premises. Minha experiência inclui **migração de máquinas virtuais com RackWare para OCI**, arquitetura **Hub & Spoke**, conectividade com **FastConnect** e comunicação entre regiões com **Remote Peering**.
+
+Desenvolvo automações e inventários com **Python, CLI e scripts** para simplificar rotinas operacionais e apoiar a análise de recursos, capacidade e consumo cloud. Também possuo experiência com **Microsoft Azure, Google Cloud Platform, Linux, virtualização, firewalls, backup e Disaster Recovery**.
+
+Aqui compartilho scripts, adaptações, colaborações e documentação para tornar tarefas de infraestrutura mais simples, padronizadas e fáceis de manter.
 
 ## Áreas de atuação e tecnologias
 
-| Área | Tecnologias e ferramentas |
+| Área | Experiência e ferramentas |
 | --- | --- |
-| Cloud | Oracle Cloud Infrastructure (OCI), Microsoft Azure e Amazon Web Services (AWS) |
-| Infraestrutura como código | Terraform, com exemplo de rede privada na OCI |
-| Sistemas | Linux, Windows Server e Active Directory |
-| Automação | PowerShell, Bash, Python e Perl |
-| Infraestrutura e operações | Docker, Zabbix, pfSense e Zimbra |
-| Rotinas operacionais | Auditoria de usuários, backups, administração de redes e monitoramento |
+| Cloud Infrastructure | Oracle Cloud Infrastructure (OCI), Microsoft Azure e Google Cloud Platform (GCP) |
+| Cloud Networking e Hybrid Cloud | VCNs, subnets, route tables, DRG, Hub & Spoke, FastConnect, Remote Peering e troubleshooting de conectividade |
+| Migração de ambientes | Migração de máquinas virtuais e workloads para OCI utilizando RackWare |
+| Automação e capacidade | Python, CLI, Bash, PowerShell e Perl; inventários de recursos e análise de capacidade e consumo |
+| Sistemas e identidade | Linux, Windows Server, Active Directory e gestão de identidades e acessos |
+| Segurança e continuidade | FortiGate/Fortinet, pfSense, Veeam, Bacula, backup e Disaster Recovery |
+| Containers e monitoramento | Docker, Kubernetes, Zabbix, Grafana e InfluxDB |
+| Infraestrutura como código | Terraform, com exemplo de rede privada na OCI disponível neste perfil |
 
 ## Projetos e materiais
 
