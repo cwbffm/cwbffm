@@ -33,7 +33,7 @@ resource "oci_core_route_table" "private" {
   display_name   = "${local.name}-private-rt"
   freeform_tags  = local.tags
 
-  route_rules = []
+  # A ausência de blocos route_rules mantém a tabela sem rotas para gateways.
 }
 
 resource "oci_core_security_list" "private" {
@@ -42,8 +42,7 @@ resource "oci_core_security_list" "private" {
   display_name   = "${local.name}-private-sl"
   freeform_tags  = local.tags
 
-  ingress_security_rules = []
-  egress_security_rules  = []
+  # Sem blocos de regras, esta lista dedicada não libera entrada nem saída.
 }
 
 resource "oci_core_subnet" "private" {
