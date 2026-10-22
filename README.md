@@ -2,7 +2,7 @@
 
 ### Infraestrutura Cloud | Oracle Cloud (OCI) · Azure · AWS
 
-[LinkedIn](https://www.linkedin.com/in/cwbffm/) · [Scripts e automações](https://github.com/cwbffm/scriptz)
+[LinkedIn](https://www.linkedin.com/in/cwbffm/) · [Projeto OCI/Terraform](https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network) · [Scripts e automações](https://github.com/cwbffm/scriptz)
 
 ## Sobre mim
 
@@ -15,6 +15,7 @@ Aqui compartilho scripts, adaptações, colaborações e documentação para Lin
 | Área | Tecnologias e ferramentas |
 | --- | --- |
 | Cloud | Oracle Cloud Infrastructure (OCI), Microsoft Azure e Amazon Web Services (AWS) |
+| Infraestrutura como código | Terraform, com exemplo de rede privada na OCI |
 | Sistemas | Linux, Windows Server e Active Directory |
 | Automação | PowerShell, Bash, Python e Perl |
 | Infraestrutura e operações | Docker, Zabbix, pfSense e Zimbra |
@@ -24,7 +25,8 @@ Aqui compartilho scripts, adaptações, colaborações e documentação para Lin
 
 | Projeto / conteúdo | O que você encontra |
 | --- | --- |
-| [Scriptz](https://github.com/cwbffm/scriptz) | Coleção de scripts e guias para administração de sistemas, auditoria, backups e redes. |
+| [OCI Terraform Network](https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network) | Exemplo de VCN, duas sub-redes privadas, tags, outputs e testes com provider OCI simulado. |
+| [Scriptz](https://github.com/cwbffm/scriptz) | Fork com scripts e guias de administração, auditoria e backups; [origem e contribuições](https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md). |
 | [Automações AWS](https://github.com/cwbffm/scriptz/tree/master/aws) | Rotinas para EC2, EBS, RDS, S3 e ECR, incluindo tags, configurações e verificações operacionais. |
 | [PowerShell e Oh My Posh](https://github.com/cwbffm/oh-my-posh) | Guia de configuração do terminal com Oh My Posh, fontes e módulos do PowerShell. |
 
