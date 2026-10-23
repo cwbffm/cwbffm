@@ -1,5 +1,7 @@
 # OCI Terraform Network
 
+> Repositório independente: [OCI Terraform Network](https://github.com/cwbffm/oci-terraform-network).
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/oci-terraform-cover-mobile-dark.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/oci-terraform-cover-mobile-light.svg">

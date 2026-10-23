@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/cwbffm/"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-linkedin.svg" alt="LinkedIn" height="36"></a>
-  <a href="https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-project.svg" alt="OCI / Terraform" height="36"></a>
+  <a href="https://github.com/cwbffm/oci-terraform-network"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-project.svg" alt="OCI / Terraform" height="36"></a>
   <a href="https://github.com/cwbffm/scriptz"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-scripts.svg" alt="Scripts e automações" height="36"></a>
 </p>
 
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="2">
 </picture>
 
-<a href="https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network">
+<a href="https://github.com/cwbffm/oci-terraform-network">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-network-mobile-dark.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-network-mobile-light.svg">
