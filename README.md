@@ -1,9 +1,13 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-light.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-light.svg" alt="Fabio Ferreira — Cloud Infrastructure. Infraestrutura conectada. Operação simplificada. OCI, Hybrid Cloud e automação, com foco em redes, infraestrutura e segurança." width="1240">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-mobile-light.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-dark.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-light.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-mobile-dark.gif">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-mobile-light.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-light.gif">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-light.svg" alt="Fabio Ferreira — Cloud Infrastructure. Monograma FF, OCI, Hybrid Cloud e automação. Redes, infraestrutura e segurança." width="1240">
 </picture>
 
 <p>
@@ -14,7 +18,14 @@
 
 [Projetos](#projetos-em-destaque) · [Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [Contato](#contato-profissional)
 
-## Projetos em destaque
+<a id="projetos-em-destaque"></a>
+
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-section-projects.svg" alt="" width="24" height="24"> Projetos em destaque
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+</picture>
 
 <a href="https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network">
 <picture>
@@ -38,7 +49,14 @@
 
 <sub>Scriptz é um fork. Consulte a [origem e as contribuições documentadas](https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md).</sub>
 
-## Sobre mim
+<a id="sobre-mim"></a>
+
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-section-about.svg" alt="" width="24" height="24"> Sobre mim
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+</picture>
 
 Sou **Analista de Infraestrutura Cloud**, com mais de **13 anos de experiência em TI** e atuação principal em **Oracle Cloud Infrastructure (OCI)**. Trabalho com administração e sustentação de ambientes cloud e híbridos, integrando cloud e infraestrutura on-premises com foco em **conectividade, segurança e disponibilidade**.
 
@@ -46,7 +64,14 @@ Minha experiência reúne **redes OCI, conectividade híbrida, Compute e armazen
 
 Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos, consolidar dados de OCPU, memória e armazenamento e apoiar análises de capacidade, consumo e otimização. Também elaboro documentação de arquitetura, topologias, rotas e conectividade.
 
-## Competências e tecnologias
+<a id="competências-e-tecnologias"></a>
+
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-section-stack.svg" alt="" width="24" height="24"> Competências e tecnologias
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+</picture>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-mobile-dark.svg">
@@ -95,7 +120,14 @@ Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos,
 
 </details>
 
-## Contato profissional
+<a id="contato-profissional"></a>
+
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-section-contact.svg" alt="" width="24" height="24"> Contato profissional
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+</picture>
 
 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/cwbffm/)** para conversar sobre infraestrutura, cloud e automação.
 
@@ -110,3 +142,13 @@ Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/cwbffm/)** para co
 
 </details>
 
+
+<a href="https://www.linkedin.com/in/cwbffm/">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-footer-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-footer-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-footer-light.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-footer-light.svg" alt="Fabio Ferreira — OCI, redes e automação. Conversar no LinkedIn." width="1240">
+</picture>
+</a>
