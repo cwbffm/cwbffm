@@ -6,24 +6,37 @@
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-professional-light.svg" alt="Fabio Ferreira — Cloud Infrastructure. Infraestrutura conectada. Operação simplificada. OCI, Hybrid Cloud e automação, com foco em redes, infraestrutura e segurança." width="1240">
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/cwbffm/) · [OCI/Terraform](https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network) · [Scripts e automações](https://github.com/cwbffm/scriptz)
+<p>
+  <a href="https://www.linkedin.com/in/cwbffm/"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-linkedin.svg" alt="LinkedIn" height="36"></a>
+  <a href="https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-project.svg" alt="OCI / Terraform" height="36"></a>
+  <a href="https://github.com/cwbffm/scriptz"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-scripts.svg" alt="Scripts e automações" height="36"></a>
+</p>
+
+[Projetos](#projetos-em-destaque) · [Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [Contato](#contato-profissional)
 
 ## Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network">OCI Terraform Network ↗</a></h3>
-      <p>Exemplo de rede privada na OCI: VCN, duas sub-redes privadas, tags e outputs. Inclui testes com provider OCI simulado.</p>
-      <p><sub>Terraform · OCI Networking · Infraestrutura como código</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cwbffm/scriptz">Scripts e automações ↗</a></h3>
-      <p>Scripts e guias de administração, auditoria e backups. Fork com <a href="https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md">origem e contribuições documentadas</a>.</p>
-      <p><sub>Operação · Sistemas · Guias práticos</sub></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-network-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-network-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-network-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-network-light.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-network-light.svg" alt="OCI Terraform Network — exemplo de VCN, duas sub-redes privadas, tags, outputs e testes com provider OCI simulado." width="1240">
+</picture>
+</a>
+
+<a href="https://github.com/cwbffm/scriptz">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-scripts-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-scripts-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-scripts-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-scripts-light.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-scripts-light.svg" alt="Scripts e automações — fork Scriptz com scripts e guias de administração, auditoria e backups." width="1240">
+</picture>
+</a>
+
+<sub>Scriptz é um fork. Consulte a [origem e as contribuições documentadas](https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md).</sub>
 
 ## Sobre mim
 
@@ -35,6 +48,17 @@ Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos,
 
 ## Competências e tecnologias
 
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-light.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-light.svg" alt="Foco principal: OCI, Terraform, Python, Linux, Bash e PowerShell. Experiência complementar: Azure, Google Cloud, Windows Server, Docker, Kubernetes e Grafana." width="1240">
+</picture>
+
+<details>
+<summary>Detalhar áreas de atuação</summary>
+
 | Área | Atuação técnica |
 | --- | --- |
 | **Oracle Cloud Infrastructure** | Administração e sustentação de Compute, Boot Volume, Block Volume, Object Storage e File Storage. |
@@ -44,6 +68,8 @@ Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos,
 | **Capacidade e consumo** | Análise de OCPU, memória e armazenamento; informações técnicas e gerenciais para apoiar a otimização dos ambientes. |
 | **Operação e documentação** | Linux, virtualização, diagnóstico de incidentes, arquitetura e topologias. |
 | **Infraestrutura como código** | Terraform, com exemplo de rede privada na OCI publicado neste perfil. |
+
+</details>
 
 <details>
 <summary>Experiência complementar</summary>
@@ -83,3 +109,4 @@ Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/cwbffm/)** para co
 </picture>
 
 </details>
+
