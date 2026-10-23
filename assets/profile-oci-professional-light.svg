@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="410" viewBox="0 0 1240 410" role="img" aria-labelledby="title desc">
+<title id="title">Fabio Ferreira — OCI profissional</title>
+<desc id="desc">Cloud Infrastructure. Infraestrutura conectada. Operação simplificada. OCI, Hybrid Cloud e automação. Redes, infraestrutura e segurança.</desc>
+<!-- Icons: Lucide 1.8.0. Source: https://github.com/lucide-icons/lucide
+ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+—-
+
+The following Lucide icons are derived from the Feather project:
+
+airplay, alert-circle, alert-octagon, alert-triangle, aperture, arrow-down-circle, arrow-down-left, arrow-down-right, arrow-down, arrow-left-circle, arrow-left, arrow-right-circle, arrow-right, arrow-up-circle, arrow-up-left, arrow-up-right, arrow-up, at-sign, calendar, cast, check, chevron-down, chevron-left, chevron-right, chevron-up, chevrons-down, chevrons-left, chevrons-right, chevrons-up, circle, clipboard, clock, code, columns, command, compass, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, crosshair, database, divide-circle, divide-square, dollar-sign, download, external-link, feather, frown, hash, headphones, help-circle, info, italic, key, layout, life-buoy, link-2, link, loader, lock, log-in, log-out, maximize, meh, minimize, minimize-2, minus-circle, minus-square, minus, monitor, moon, more-horizontal, more-vertical, move, music, navigation-2, navigation, octagon, pause-circle, percent, plus-circle, plus-square, plus, power, radio, rss, search, server, share, shopping-bag, sidebar, smartphone, smile, square, table-2, tablet, target, terminal, trash-2, trash, triangle, tv, type, upload, x-circle, x-octagon, x-square, x, zoom-in, zoom-out
+
+The MIT License (MIT) (for the icons listed above)
+
+Copyright (c) 2013-present Cole Bemis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-->
+<rect x="1" y="1" width="1238" height="408" rx="22" fill="#ffffff" stroke="#d7dfe8" stroke-width="2"/><rect x="58" y="42" width="40" height="3" rx="1.5" fill="#ad4d32"/><text x="58" y="81" fill="#ad4d32" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3.8" font-weight="600">CLOUD INFRASTRUCTURE</text><text x="56" y="163" fill="#1f2937" font-family="Segoe UI,Arial,sans-serif" font-size="65" font-weight="600" letter-spacing="-1.8">Fabio Ferreira<tspan fill="#ad4d32">.</tspan></text><text x="58" y="222" fill="#536375" font-family="Segoe UI,Arial,sans-serif" font-size="29" >Infraestrutura conectada.</text><text x="58" y="263" fill="#536375" font-family="Segoe UI,Arial,sans-serif" font-size="29" >Operação simplificada.</text><text x="58" y="322" fill="#1f2937" font-family="Segoe UI,Arial,sans-serif" font-size="20" >OCI · Hybrid Cloud · Automação</text><text x="58" y="373" fill="#536375" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.1">CLOUD NETWORKING · PYTHON · CLI · LINUX · TERRAFORM</text><line x1="745" y1="56" x2="745" y2="352" stroke="#d7dfe8"/><rect x="847" y="82" width="278" height="94" rx="16" fill="#ad4d3208" stroke="#ad4d32" stroke-opacity="0.45"/><g transform="translate(875 108) scale(1.5)" fill="none" stroke="#ad4d32" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></g><text x="928" y="139" fill="#1f2937" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Oracle Cloud</text><path d="M986 176V235M832 257V235H1140V257M986 235V257" fill="none" stroke="#d7dfe8" stroke-width="2"/><rect x="798" y="257" width="68" height="68" rx="16" fill="#f2f5f9" stroke="#d7dfe8"/><g transform="translate(816 275) scale(1.3333333333333333)" fill="none" stroke="#536375" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="16" y="16" width="6" height="6" rx="1"/><rect x="2" y="16" width="6" height="6" rx="1"/><rect x="9" y="2" width="6" height="6" rx="1"/><path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3"/><path d="M12 12V8"/></g><text x="832" y="356" fill="#536375" font-family="Segoe UI,Arial,sans-serif" font-size="17" text-anchor="middle">Redes</text><rect x="952" y="257" width="68" height="68" rx="16" fill="#f2f5f9" stroke="#d7dfe8"/><g transform="translate(970 275) scale(1.3333333333333333)" fill="none" stroke="#536375" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="8" x="2" y="2" rx="2" ry="2"/><rect width="20" height="8" x="2" y="14" rx="2" ry="2"/><line x1="6" x2="6.01" y1="6" y2="6"/><line x1="6" x2="6.01" y1="18" y2="18"/></g><text x="986" y="356" fill="#536375" font-family="Segoe UI,Arial,sans-serif" font-size="17" text-anchor="middle">Infraestrutura</text><rect x="1106" y="257" width="68" height="68" rx="16" fill="#f2f5f9" stroke="#d7dfe8"/><g transform="translate(1124 275) scale(1.3333333333333333)" fill="none" stroke="#536375" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></g><text x="1140" y="356" fill="#536375" font-family="Segoe UI,Arial,sans-serif" font-size="17" text-anchor="middle">Segurança</text>
+</svg>
