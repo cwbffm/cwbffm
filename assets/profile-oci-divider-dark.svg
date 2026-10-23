@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="4" viewBox="0 0 1240 4" role="img" aria-labelledby="title desc"><title id="title">Separador de seção</title><desc id="desc">Linha decorativa em cobre e cinza.</desc><metadata>Lucide 1.8.0 — https://github.com/lucide-icons/lucide
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="2" viewBox="0 0 1240 2" role="img" aria-labelledby="title desc"><title id="title">Separador de seção</title><desc id="desc">Linha decorativa curta em cobre.</desc><metadata>Lucide 1.8.0 — https://github.com/lucide-icons/lucide
 ISC License
 
 Copyright (c) 2026 Lucide Icons and Contributors
@@ -42,4 +42,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</metadata><rect y="1" width="1240" height="1" fill="#303b47"/><rect y="0" width="92" height="3" rx="1.5" fill="#f18d6d"/></svg>
+</metadata><rect width="72" height="2" rx="1" fill="#f18d6d" opacity="0.7"/></svg>

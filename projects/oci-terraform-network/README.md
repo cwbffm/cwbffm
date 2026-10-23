@@ -1,10 +1,35 @@
 # OCI Terraform Network
 
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/oci-terraform-cover-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/oci-terraform-cover-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/oci-terraform-cover-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/oci-terraform-cover-light.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/oci-terraform-cover-light.svg" alt="OCI Terraform Network — laboratório de rede privada por Fabio Ferreira. VCN, sub-redes privadas, tags e outputs." width="1240">
+</picture>
+
 Exemplo de infraestrutura como código para criar uma VCN e duas sub-redes privadas na Oracle Cloud Infrastructure. Preparado para o portfólio técnico de [Fabio Ferreira](https://github.com/cwbffm).
 
 O projeto demonstra organização de Terraform, cálculo de CIDRs, tags, outputs e testes com provider simulado. A criação de recursos na OCI depende da execução explícita de `terraform apply` por quem utilizar o exemplo.
 
 ## Arquitetura
+
+```mermaid
+flowchart TB
+  VCN["VCN · 10.20.0.0/16"]
+  APP["Aplicação · 10.20.1.0/24"]
+  MGMT["Gerenciamento · 10.20.2.0/24"]
+  RT["Tabela de rotas · sem gateways"]
+  SL["Security List · sem regras"]
+  VCN --> APP
+  VCN --> MGMT
+  APP -.-> RT
+  MGMT -.-> RT
+  APP -.-> SL
+  MGMT -.-> SL
+```
+
+As linhas tracejadas indicam a associação das sub-redes à tabela de rotas e à Security List dedicadas; não representam fluxos de tráfego liberados.
 
 | Componente | Configuração do exemplo |
 | --- | --- |

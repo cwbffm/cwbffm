@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="2">
 </picture>
 
 <a href="https://github.com/cwbffm/cwbffm/tree/cwbffm/projects/oci-terraform-network">
@@ -55,7 +55,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="2">
 </picture>
 
 Sou **Analista de Infraestrutura Cloud**, com mais de **13 anos de experiência em TI** e atuação principal em **Oracle Cloud Infrastructure (OCI)**. Trabalho com administração e sustentação de ambientes cloud e híbridos, integrando cloud e infraestrutura on-premises com foco em **conectividade, segurança e disponibilidade**.
@@ -70,7 +70,7 @@ Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos,
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="2">
 </picture>
 
 <picture>
@@ -78,7 +78,7 @@ Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos,
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-light.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-light.svg" alt="Foco principal: OCI, Terraform, Python, Linux, Bash e PowerShell. Experiência complementar: Azure, Google Cloud, Windows Server, Docker, Kubernetes e Grafana." width="1240">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-light.svg" alt="Foco principal: OCI, Terraform, Python, Linux, Bash e PowerShell." width="1240">
 </picture>
 
 <details>
@@ -92,12 +92,20 @@ Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos,
 | **Automação e inventário** | Python, CLI e scripts para levantamento e consolidação de recursos cloud. |
 | **Capacidade e consumo** | Análise de OCPU, memória e armazenamento; informações técnicas e gerenciais para apoiar a otimização dos ambientes. |
 | **Operação e documentação** | Linux, virtualização, diagnóstico de incidentes, arquitetura e topologias. |
-| **Infraestrutura como código** | Terraform, com exemplo de rede privada na OCI publicado neste perfil. |
+| **Infraestrutura como código** | Terraform, com laboratório de rede privada na OCI apresentado neste perfil. |
 
 </details>
 
 <details>
 <summary>Experiência complementar</summary>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-extra-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-extra-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-extra-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-extra-light.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-stack-extra-light.svg" alt="Experiência complementar: Azure, Google Cloud, Windows Server, Docker, Kubernetes e Grafana." width="1240">
+</picture>
 
 - **Multicloud:** Microsoft Azure e Google Cloud Platform.
 - **Sistemas e identidade:** Windows Server, Active Directory e gestão de identidades e acessos.
@@ -126,7 +134,7 @@ Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos,
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="4">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="2">
 </picture>
 
 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/cwbffm/)** para conversar sobre infraestrutura, cloud e automação.
