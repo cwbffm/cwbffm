@@ -16,7 +16,7 @@
   <a href="https://github.com/cwbffm/scriptz"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-nav-scripts.svg" alt="Scripts e automações" height="36"></a>
 </p>
 
-[Projetos](#projetos-em-destaque) · [Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [Contato](#contato-profissional)
+[Studio OCI](https://cwbffm.github.io/oci-architect-studio/) · [Projetos](#projetos-em-destaque) · [Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [Contato](#contato-profissional)
 
 <a id="projetos-em-destaque"></a>
 
@@ -26,6 +26,17 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-dark.svg">
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-divider-light.svg" alt="" width="1240" height="2">
 </picture>
+
+<a href="https://github.com/cwbffm/oci-architect-studio">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-studio-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-studio-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-studio-dark.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-oci-project-studio-light.svg" alt="OCI Architect Studio — planejamento de recursos OCI, policies, tags e geração de Terraform." width="1240">
+</picture>
+</a>
+
+**[Experimentar o Studio](https://cwbffm.github.io/oci-architect-studio/)** · [Ver código e documentação](https://github.com/cwbffm/oci-architect-studio)
 
 <a href="https://github.com/cwbffm/oci-terraform-network">
 <picture>
