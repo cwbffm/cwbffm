@@ -32,7 +32,9 @@ Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conecti
 
 <a id="sobre-mim"></a>
 
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-about-banner.png" alt="Sobre mim" width="1240">
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-section-about.svg" alt="" width="24" height="24"> Sobre mim
+
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-divider.svg" alt="" width="1240" height="2">
 
 Atuo na administração e sustentação de **Oracle Cloud Infrastructure (OCI)** e na integração entre cloud e datacenter, com foco em **conectividade, segurança e disponibilidade**.
 
