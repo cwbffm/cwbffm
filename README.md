@@ -1,13 +1,21 @@
-<a id="projetos-em-destaque"></a>
-
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-grafite-reference-complete.png" alt="Fabio Ferreira — Cloud, OCI, Redes e Automação. Projetos em destaque: OCI Architect Studio, OCI Terraform Network e Scriptz." width="1240">
-
-**[OCI Architect Studio](https://github.com/cwbffm/oci-architect-studio)** · **[OCI Terraform Network](https://github.com/cwbffm/oci-terraform-network)** · **[Scriptz](https://github.com/cwbffm/scriptz)** · [Abrir demonstração](https://cwbffm.github.io/oci-architect-studio/)
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-banner.png" alt="Fabio Ferreira — Cloud, OCI, Redes e Automação. Projetar. Automatizar." width="1240">
 
 **Analista de Infraestrutura Cloud · OCI, redes e automação**  
 Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conectividade e sustentação de infraestrutura.
 
-[Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [LinkedIn](https://www.linkedin.com/in/cwbffm/)
+[Projetos](#projetos-em-destaque) · [Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [LinkedIn](https://www.linkedin.com/in/cwbffm/)
+
+<a id="projetos-em-destaque"></a>
+
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-section-projects.svg" alt="" width="24" height="24"> Projetos em destaque
+
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-divider.svg" alt="" width="1240" height="2">
+
+<p>
+  <a href="https://github.com/cwbffm/oci-architect-studio"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-studio.svg" alt="OCI Architect Studio" width="32%"></a>
+  <a href="https://github.com/cwbffm/oci-terraform-network"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-network.svg" alt="OCI Terraform Network" width="32%"></a>
+  <a href="https://github.com/cwbffm/scriptz"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-scripts.svg" alt="Scriptz" width="32%"></a>
+</p>
 
 <details>
 <summary>Explorar os projetos e suas contribuições</summary>
