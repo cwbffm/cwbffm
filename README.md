@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-globe-banner-v2.png" alt="Fabio Ferreira — Cloud · Networks · Automation. Capa Carbono e Âmbar com globo digital." width="1240">
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-globe-banner-v3.png" alt="Fabio Ferreira — Cloud · Networks · Automation. CONECTAR. TRANSFORMAR. Capa Carbono e Âmbar com globo digital." width="1240">
 
 **Analista de Infraestrutura Cloud · OCI, redes e automação**  
 Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conectividade e sustentação de infraestrutura.
@@ -32,24 +32,7 @@ Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conecti
 </picture>
 </a>
 
-<details>
-<summary>Explorar os projetos e suas contribuições</summary>
-
-**O que resolve:** reúne o planejamento de recursos OCI e a geração de Terraform em uma ferramenta visual. **Explore:** a demonstração e os exemplos de código do projeto.
-
-**[Experimentar o Studio](https://cwbffm.github.io/oci-architect-studio/)** · [Ver código e documentação](https://github.com/cwbffm/oci-architect-studio)
-
-
-
-**O que demonstra:** provisionamento de uma VCN e duas sub-redes privadas com Terraform, com tags, outputs e testes com provider simulado. [Consultar o laboratório](https://github.com/cwbffm/oci-terraform-network).
-
-
-
-**O que você encontra:** scripts e guias de administração, auditoria e backups, com origem e contribuições identificadas.
-
 <sub>Scriptz é um fork. Consulte a [origem e as contribuições documentadas](https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md).</sub>
-
-</details>
 
 <a id="sobre-mim"></a>
 
