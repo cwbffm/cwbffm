@@ -9,8 +9,6 @@ Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conecti
 
 ## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-section-projects.svg" alt="" width="24" height="24"> Projetos em destaque
 
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-divider.svg" alt="" width="1240" height="2">
-
 <a href="https://github.com/cwbffm/oci-architect-studio">
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-studio-mobile.svg">
@@ -31,8 +29,6 @@ Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conecti
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-scripts.svg" alt="Scripts e automações" width="1240">
 </picture>
 </a>
-
-<sub>Scriptz é um fork. Consulte a [origem e as contribuições documentadas](https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md).</sub>
 
 <a id="sobre-mim"></a>
 
