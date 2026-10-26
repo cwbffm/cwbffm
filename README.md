@@ -1,7 +1,4 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-header-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-header.svg" alt="Fabio Ferreira — Projetar. Automatizar. Cloud Infrastructure, OCI, Hybrid Cloud, redes e segurança." width="1240">
-</picture>
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-banner.png" alt="Fabio Ferreira — Cloud, OCI, Redes e Automação. Projetar. Automatizar." width="1240">
 
 **Analista de Infraestrutura Cloud · OCI, redes e automação**  
 Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conectividade e sustentação de infraestrutura.
@@ -14,36 +11,30 @@ Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conecti
 
 <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-divider.svg" alt="" width="1240" height="2">
 
-<a href="https://github.com/cwbffm/oci-architect-studio">
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-studio-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-studio.svg" alt="OCI Architect Studio — planejamento de recursos OCI, policies, tags e geração de Terraform." width="1240">
-</picture>
-</a>
+<p>
+  <a href="https://github.com/cwbffm/oci-architect-studio"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-studio.svg" alt="OCI Architect Studio" width="32%"></a>
+  <a href="https://github.com/cwbffm/oci-terraform-network"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-network.svg" alt="OCI Terraform Network" width="32%"></a>
+  <a href="https://github.com/cwbffm/scriptz"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-scripts.svg" alt="Scriptz" width="32%"></a>
+</p>
+
+<details>
+<summary>Explorar os projetos e suas contribuições</summary>
 
 **O que resolve:** reúne o planejamento de recursos OCI e a geração de Terraform em uma ferramenta visual. **Explore:** a demonstração e os exemplos de código do projeto.
 
 **[Experimentar o Studio](https://cwbffm.github.io/oci-architect-studio/)** · [Ver código e documentação](https://github.com/cwbffm/oci-architect-studio)
 
-<a href="https://github.com/cwbffm/oci-terraform-network">
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-network-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-network.svg" alt="OCI Terraform Network — exemplo de VCN, duas sub-redes privadas, tags, outputs e testes com provider OCI simulado." width="1240">
-</picture>
-</a>
+
 
 **O que demonstra:** provisionamento de uma VCN e duas sub-redes privadas com Terraform, com tags, outputs e testes com provider simulado. [Consultar o laboratório](https://github.com/cwbffm/oci-terraform-network).
 
-<a href="https://github.com/cwbffm/scriptz">
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-scripts-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-scripts.svg" alt="Scripts e automações — fork Scriptz com scripts e guias de administração, auditoria e backups." width="1240">
-</picture>
-</a>
+
 
 **O que você encontra:** scripts e guias de administração, auditoria e backups, com origem e contribuições identificadas.
 
 <sub>Scriptz é um fork. Consulte a [origem e as contribuições documentadas](https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md).</sub>
+
+</details>
 
 <a id="sobre-mim"></a>
 
