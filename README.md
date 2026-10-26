@@ -3,13 +3,10 @@
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-matte-header.svg" alt="Fabio Ferreira — Projetar. Automatizar. Cloud Infrastructure, OCI, Hybrid Cloud, redes e segurança." width="1240">
 </picture>
 
-<p>
-  <a href="https://www.linkedin.com/in/cwbffm/"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-matte-nav-linkedin.svg" alt="LinkedIn" height="36"></a>
-  <a href="https://github.com/cwbffm/oci-terraform-network"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-matte-nav-project.svg" alt="OCI / Terraform" height="36"></a>
-  <a href="https://github.com/cwbffm/scriptz"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-matte-nav-scripts.svg" alt="Scripts e automações" height="36"></a>
-</p>
+**Analista de Infraestrutura Cloud · OCI, redes e automação**  
+Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conectividade e sustentação de infraestrutura.
 
-[Studio OCI](https://cwbffm.github.io/oci-architect-studio/) · [Projetos](#projetos-em-destaque) · [Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [Contato](#contato-profissional)
+[Projetos](#projetos-em-destaque) · [Sobre mim](#sobre-mim) · [Tecnologias](#competências-e-tecnologias) · [LinkedIn](https://www.linkedin.com/in/cwbffm/)
 
 <a id="projetos-em-destaque"></a>
 
@@ -24,6 +21,8 @@
 </picture>
 </a>
 
+**O que resolve:** reúne o planejamento de recursos OCI e a geração de Terraform em uma ferramenta visual. **Explore:** a demonstração e os exemplos de código do projeto.
+
 **[Experimentar o Studio](https://cwbffm.github.io/oci-architect-studio/)** · [Ver código e documentação](https://github.com/cwbffm/oci-architect-studio)
 
 <a href="https://github.com/cwbffm/oci-terraform-network">
@@ -33,12 +32,16 @@
 </picture>
 </a>
 
+**O que demonstra:** provisionamento de uma VCN e duas sub-redes privadas com Terraform, com tags, outputs e testes com provider simulado. [Consultar o laboratório](https://github.com/cwbffm/oci-terraform-network).
+
 <a href="https://github.com/cwbffm/scriptz">
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-matte-scripts-mobile.svg">
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-matte-scripts.svg" alt="Scripts e automações — fork Scriptz com scripts e guias de administração, auditoria e backups." width="1240">
 </picture>
 </a>
+
+**O que você encontra:** scripts e guias de administração, auditoria e backups, com origem e contribuições identificadas.
 
 <sub>Scriptz é um fork. Consulte a [origem e as contribuições documentadas](https://github.com/cwbffm/scriptz/blob/master/CONTRIBUTIONS.md).</sub>
 
@@ -48,11 +51,11 @@
 
 <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-matte-divider.svg" alt="" width="1240" height="2">
 
-Sou **Analista de Infraestrutura Cloud**, com mais de **13 anos de experiência em TI** e atuação principal em **Oracle Cloud Infrastructure (OCI)**. Trabalho com administração e sustentação de ambientes cloud e híbridos, integrando cloud e infraestrutura on-premises com foco em **conectividade, segurança e disponibilidade**.
+Atuo na administração e sustentação de **Oracle Cloud Infrastructure (OCI)** e na integração entre cloud e datacenter, com foco em **conectividade, segurança e disponibilidade**.
 
-Minha experiência reúne **redes OCI, conectividade híbrida, Compute e armazenamento**, além de Linux e infraestrutura virtualizada. No troubleshooting, acompanho a comunicação de ponta a ponta: **origem → rede → firewall → rota → serviço → destino**.
+Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos e consolidar informações de capacidade e consumo. Documento arquiteturas e investigo incidentes acompanhando a comunicação de ponta a ponta.
 
-Desenvolvo **automações com Python, CLI e scripts** para inventariar recursos, consolidar dados de OCPU, memória e armazenamento e apoiar análises de capacidade, consumo e otimização. Também elaboro documentação de arquitetura, topologias, rotas e conectividade.
+**Direção profissional:** evoluir na carreira técnica para uma posição sênior em infraestrutura cloud, aprofundando minha atuação em **OCI, redes e automação**.
 
 <a id="competências-e-tecnologias"></a>
 
