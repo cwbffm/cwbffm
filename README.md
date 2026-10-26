@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-banner.png" alt="Fabio Ferreira — Cloud, OCI, Redes e Automação. Projetar. Automatizar." width="1240">
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-globe-banner.png" alt="Fabio Ferreira — Cloud, OCI, Redes e Automação. Capa Carbono e Âmbar com globo digital." width="1240">
 
 **Analista de Infraestrutura Cloud · OCI, redes e automação**  
 Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conectividade e sustentação de infraestrutura.
@@ -7,15 +7,30 @@ Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conecti
 
 <a id="projetos-em-destaque"></a>
 
-## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-section-projects.svg" alt="" width="24" height="24"> Projetos em destaque
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-section-projects.svg" alt="" width="24" height="24"> Projetos em destaque
 
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-divider.svg" alt="" width="1240" height="2">
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-divider.svg" alt="" width="1240" height="2">
 
-<p>
-  <a href="https://github.com/cwbffm/oci-architect-studio"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-studio.svg" alt="OCI Architect Studio" width="32%"></a>
-  <a href="https://github.com/cwbffm/oci-terraform-network"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-network.svg" alt="OCI Terraform Network" width="32%"></a>
-  <a href="https://github.com/cwbffm/scriptz"><img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-reference-scripts.svg" alt="Scriptz" width="32%"></a>
-</p>
+<a href="https://github.com/cwbffm/oci-architect-studio">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-studio-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-studio.svg" alt="OCI Architect Studio" width="1240">
+</picture>
+</a>
+
+<a href="https://github.com/cwbffm/oci-terraform-network">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-network-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-network.svg" alt="OCI Terraform Network" width="1240">
+</picture>
+</a>
+
+<a href="https://github.com/cwbffm/scriptz">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-scripts-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-scripts.svg" alt="Scripts e automações" width="1240">
+</picture>
+</a>
 
 <details>
 <summary>Explorar os projetos e suas contribuições</summary>
@@ -38,9 +53,9 @@ Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conecti
 
 <a id="sobre-mim"></a>
 
-## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-section-about.svg" alt="" width="24" height="24"> Sobre mim
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-section-about.svg" alt="" width="24" height="24"> Sobre mim
 
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-divider.svg" alt="" width="1240" height="2">
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-divider.svg" alt="" width="1240" height="2">
 
 Atuo na administração e sustentação de **Oracle Cloud Infrastructure (OCI)** e na integração entre cloud e datacenter, com foco em **conectividade, segurança e disponibilidade**.
 
@@ -50,13 +65,13 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
 
 <a id="competências-e-tecnologias"></a>
 
-## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-section-stack.svg" alt="" width="24" height="24"> Competências e tecnologias
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-section-stack.svg" alt="" width="24" height="24"> Competências e tecnologias
 
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-divider.svg" alt="" width="1240" height="2">
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-divider.svg" alt="" width="1240" height="2">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-stack-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-stack.svg" alt="Foco principal: OCI, Terraform, Python, Linux, Bash e PowerShell." width="1240">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack.svg" alt="Foco principal: OCI, Terraform, Python, Linux, Bash e PowerShell." width="1240">
 </picture>
 
 <details>
@@ -78,8 +93,8 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
 <summary>Experiência complementar</summary>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-stack-extra-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-stack-extra.svg" alt="Experiência complementar: Azure, Google Cloud, Windows Server, Docker, Kubernetes e Grafana." width="1240">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack-extra-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack-extra.svg" alt="Experiência complementar: Azure, Google Cloud, Windows Server, Docker, Kubernetes e Grafana." width="1240">
 </picture>
 
 - **Multicloud:** Microsoft Azure e Google Cloud Platform.
@@ -105,9 +120,9 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
 
 <a id="contato-profissional"></a>
 
-## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-section-contact.svg" alt="" width="24" height="24"> Contato profissional
+## <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-section-contact.svg" alt="" width="24" height="24"> Contato profissional
 
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-divider.svg" alt="" width="1240" height="2">
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-divider.svg" alt="" width="1240" height="2">
 
 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/cwbffm/)** para conversar sobre infraestrutura, cloud e automação.
 
@@ -125,8 +140,8 @@ Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/cwbffm/)** para co
 
 <a href="https://www.linkedin.com/in/cwbffm/">
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-footer-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-industrial-footer.svg" alt="Fabio Ferreira — OCI, redes e automação. Conversar no LinkedIn." width="1240">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-footer-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-footer.svg" alt="Fabio Ferreira — OCI, redes e automação. Conversar no LinkedIn." width="1240">
 </picture>
 </a>
 
