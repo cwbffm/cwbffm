@@ -104,11 +104,9 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
 
 | Conteúdo | O que você encontra |
 | --- | --- |
-| [Automações AWS](https://github.com/cwbffm/scriptz/tree/master/aws) | Rotinas do fork Scriptz para EC2, EBS, RDS, S3 e ECR, incluindo tags, configurações e verificações operacionais. |
 | [PowerShell e Oh My Posh](https://github.com/cwbffm/oh-my-posh) | Guia de configuração do terminal com Oh My Posh, fontes e módulos do PowerShell. |
 | [Auditoria de usuários em servidores Windows](https://github.com/cwbffm/scriptz/blob/master/audit-local-users.ps1) | Levantamento de usuários locais a partir de uma OU do Active Directory ou de um CSV, com relatórios de resultados e falhas. |
 | [Usuário com shell restrito no Linux](https://github.com/cwbffm/scriptz/blob/master/create-restricted-user.md) | Documentação de uma colaboração com Charles Josiah para automatizar a criação de usuários com comandos permitidos. |
-| [Instalação do Docker no Ubuntu 24.04](https://github.com/cwbffm/scriptz/blob/master/howto-install-docker-ubuntu-2404.md) | Guia de instalação para consulta e padronização de ambientes. |
 
 </details>
 
