@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-globe-banner.png" alt="Fabio Ferreira — Cloud, OCI, Redes e Automação. Capa Carbono e Âmbar com globo digital." width="1240">
+<img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-globe-banner-v2.png" alt="Fabio Ferreira — Cloud · Networks · Automation. Capa Carbono e Âmbar com globo digital." width="1240">
 
 **Analista de Infraestrutura Cloud · OCI, redes e automação**  
 Mais de **13 anos em TI**, com atuação em ambientes cloud e híbridos, conectividade e sustentação de infraestrutura.
