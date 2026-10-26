@@ -53,12 +53,13 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack.svg" alt="Foco principal: OCI, Terraform, Python, Linux, Bash e PowerShell." width="1240">
 </picture>
 
-### 🛠️ Áreas de atuação
-
-Cloud, redes, segurança e automação.
-
 <details>
-<summary><strong>Ver detalhes da atuação técnica</strong></summary>
+<summary>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-terminal-atuacao-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-terminal-atuacao.svg" alt="Atuação técnica — clique para expandir" width="1240">
+</picture>
+</summary>
 
 | Área | Atuação técnica |
 | --- | --- |
@@ -72,12 +73,13 @@ Cloud, redes, segurança e automação.
 
 </details>
 
-### 🧩 Experiência complementar
-
-Multicloud, sistemas, continuidade e observabilidade.
-
 <details>
-<summary><strong>Ver tecnologias e competências complementares</strong></summary>
+<summary>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-terminal-competencias-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-terminal-competencias.svg" alt="Competências complementares — clique para expandir" width="1240">
+</picture>
+</summary>
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack-extra-mobile.svg">
@@ -92,12 +94,13 @@ Multicloud, sistemas, continuidade e observabilidade.
 
 </details>
 
-### 💻 Mais projetos e exemplos práticos
-
-Scripts, guias e exemplos aplicados à infraestrutura.
-
 <details>
-<summary><strong>Explorar projetos e exemplos</strong></summary>
+<summary>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-terminal-pratica-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-terminal-pratica.svg" alt="Projetos na prática — clique para expandir" width="1240">
+</picture>
+</summary>
 
 | Conteúdo | O que você encontra |
 | --- | --- |
