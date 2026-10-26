@@ -53,8 +53,12 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
   <img src="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack.svg" alt="Foco principal: OCI, Terraform, Python, Linux, Bash e PowerShell." width="1240">
 </picture>
 
+### 🛠️ Áreas de atuação
+
+Cloud, redes, segurança e automação.
+
 <details>
-<summary>Detalhar áreas de atuação</summary>
+<summary><strong>Ver detalhes da atuação técnica</strong></summary>
 
 | Área | Atuação técnica |
 | --- | --- |
@@ -68,8 +72,12 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
 
 </details>
 
+### 🧩 Experiência complementar
+
+Multicloud, sistemas, continuidade e observabilidade.
+
 <details>
-<summary>Experiência complementar</summary>
+<summary><strong>Ver tecnologias e competências complementares</strong></summary>
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/cwbffm/cwbffm/cwbffm/assets/profile-carbon-stack-extra-mobile.svg">
@@ -84,8 +92,12 @@ Desenvolvo automações com **Python, CLI e scripts** para inventariar recursos 
 
 </details>
 
+### 💻 Mais projetos e exemplos práticos
+
+Scripts, guias e exemplos aplicados à infraestrutura.
+
 <details>
-<summary>Mais projetos e exemplos práticos</summary>
+<summary><strong>Explorar projetos e exemplos</strong></summary>
 
 | Conteúdo | O que você encontra |
 | --- | --- |
